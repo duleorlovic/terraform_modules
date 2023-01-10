@@ -1,0 +1,9 @@
+[submodule "tf_aws_route53_domains"]
+	path = tf_aws_route53_domains
+	url = git@github.com:duleorlovic/tf_aws_route53_domains.git
+[submodule "tf_aws_iam_users"]
+	path = tf_aws_iam_users
+	url = git@github.com:duleorlovic/tf_aws_iam_users.git
+[submodule "tf_aws_s3_buckets"]
+	path = tf_aws_s3_buckets
+	url = git@github.com:duleorlovic/tf_aws_s3_buckets.git
